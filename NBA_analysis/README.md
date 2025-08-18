@@ -14,7 +14,6 @@ This project demonstrates an end-to-end modern data pipeline, from automated ing
 |--------|---------|
 | `/data` | Example raw data |
 | `/sql` | SQL scripts for Snowflake |
-| `/dbt_project` | dbt models & config |
 | `/screenshots` | Visual evidence of pipeline steps |
 | `/documentation` | Tool-specific notes & setup steps |
 | `/visualizations` | Power BI files |
