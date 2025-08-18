@@ -12,11 +12,11 @@ This project demonstrates an end-to-end modern data pipeline, from automated ing
 ## 📂 Repo Structure
 | Folder | Purpose |
 |--------|---------|
-| `/data` | Example raw data |
-| `/sql` | SQL scripts for Snowflake |
-| `/screenshots` | Visual evidence of pipeline steps |
-| `/documentation` | Tool-specific notes & setup steps |
-| `/visualizations` | Power BI files |
+| `/Data` | Example raw data |
+| `/SQL` | SQL scripts for Snowflake |
+| `/Screenshots` | Visual evidence of pipeline steps |
+| `/Documentation` | Tool-specific notes & setup steps |
+| `/Viz` | Power BI files |
 
 
 ## 🔍 Key Learnings
