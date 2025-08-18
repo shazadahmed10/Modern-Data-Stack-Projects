@@ -1,7 +1,7 @@
 
 # Fivetran Setup Notes
 
-**What: Fivetran to Snowflake ELT
+**What:** Fivetran to Snowflake ELT   
 **Source:** Google Drive  
 **Destination:** Snowflake (Schema: bronze)  
 **Sync Frequency:** Every 24 hours (incremental)  
