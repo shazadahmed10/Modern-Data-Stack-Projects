@@ -1,7 +1,6 @@
-# Data-Projects
-All files related to data projects
 
 # End-to-End Modern Data Stack Projects
+All files related to data projects
 
 **Pipeline:** Fivetran → Snowflake → Power BI
 
