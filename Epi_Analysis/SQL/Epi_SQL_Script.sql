@@ -1,5 +1,6 @@
 --Project Name: Epi Analysis Mini Project
 --Date: 8/20/25
+--Environment: Snowflake Worksheet
 
 --View all of the tables in the database and schema so I know what tables to reference
 USE SCHEMA epi_analysis.google_drive;
