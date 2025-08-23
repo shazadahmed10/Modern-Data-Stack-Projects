@@ -1,7 +1,7 @@
 ## 📌 Project Overview
 This project demonstrates an end-to-end modern data pipeline, from automated ingestion to business-ready dashboards. The goal is to showcase the integration of multiple tools and the transformation of raw data into insights.
 
-**Pipeline:** Fivetran → Snowflake → dbt → Power BI
+**Pipeline:** Fivetran → Snowflake → Power BI
 
 **Business Question:** What data points are in the epi analysis datasets and what are some trends they may point to?
 
