@@ -10,7 +10,7 @@ This project demonstrates an end-to-end modern data pipeline, from automated ing
 
 **Flow:**
 1. **Fivetran** ingests data from Google Sheets into Snowflake.
-2. **Snowflake (Bronze layer)** stores raw ingested data.
+2. **Snowflake** stores raw ingested data. Transforms tables and views using SQL (Bronze layer to Silver Layer). 
 3. **Power BI** visualizes KPIs for decision-makers.
 
 ---
