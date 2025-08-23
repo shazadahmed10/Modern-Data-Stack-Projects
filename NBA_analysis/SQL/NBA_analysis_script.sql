@@ -1,5 +1,6 @@
 --Project Name: NBA Analysis Mini Project
 --Date: 8/22/25
+--Environment: Snowflake Worksheet
 
 --View all of the tables in the database and schema so I know what tables to reference
 USE SCHEMA nba_analysis.google_drive;
