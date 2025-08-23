@@ -3,7 +3,7 @@
 --Environment: Snowflake Worksheet
 
 --View all of the tables in the database and schema so I know what tables to reference
-USE SCHEMA nba_analysis.google_drive;
+USE SCHEMA NBA_ANALYSIS.GOOGLE_DRIVE;
 SHOW TABLES;
 
 
